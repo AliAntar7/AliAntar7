@@ -32,6 +32,15 @@
 
 ---
 
+### ⚙️ How I Build & Ship
+
+- 📋 **Spec-Driven Development (SDD)**: I prioritize crystal-clear specifications, domain models, and system boundaries *before* implementing. This clarity ensures high architectural integrity, zero ambiguity, and deterministic, reliable execution.
+- 🤖 **Custom AI-Augmented Workflows**: I build with deeply tailored AI workflows—leveraging LLMs and coding agents not for sloppy shortcuts, but as high-velocity multipliers to produce clean, well-tested, production-grade software.
+- 🔄 **Cross-Stack Adaptability**: While my deepest core mastery lies in **Mobile & Real-Time (Flutter/Dart)**, my workflow gives me extreme flexibility across the entire stack—effortlessly shipping **Backend services (Python / FastAPI)**, **Web**, and **AI integrations**.
+- 📈 **Continuous Workflow Evolution**: Constantly refining the developer experience, eliminating friction points, and exploring state-of-the-art methodologies to ship faster while raising code quality standards.
+
+---
+
 ### 🌟 Featured Highlights & Products
 
 #### 📹 [Qriib (قريب)](https://apps.apple.com/eg/app/qriib/id6759274218) — Next-Gen Real-Time Collaboration & Meeting Platform
@@ -131,6 +140,13 @@
   <img src="https://img.shields.io/badge/CI%2FCD-430098?style=flat-square" />
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square" />
 </p>
+
+---
+
+### 🔭 Current Focus
+
+* 🤖 Expanding expertise in **Agentic AI architectures**, autonomous developer workflows, and enterprise **RAG systems**.
+* ⚡ Continuously pushing the envelope of AI-augmented software engineering to maximize velocity while enforcing high software craftsmanship.
 
 ---
 
