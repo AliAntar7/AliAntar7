@@ -26,7 +26,7 @@
 ### 🚀 About Me
 
 - 💡 **Product-Driven Engineer**: I don’t just write code; I own the product lifecycle from **A to Z**. From identifying user friction and business requirements to UX prototyping and robust production architecture.
-- 📱 **Mobile & Real-Time Specialist**: 3+ years engineering resilient, production-grade applications using **Flutter & Dart**. Deeply experienced with low-latency real-time communication systems (**WebRTC, LiveKit, WebSockets, gRPC**).
+- 📱 **Mobile & Real-Time Specialist**: 3+ years engineering resilient, production-grade applications using **Flutter & Dart**. Deeply experienced with low-latency real-time communication systems (**WebRTC, WebSockets, gRPC**).
 - 🧠 **AI & AI-Augmented Execution**: Actively building AI systems (such as enterprise **Multi-Sector RAG** architectures) and leveraging state-of-the-art AI workflows to seamlessly ship across the full stack—be it mobile, backend (**FastAPI / Python**), or cloud infrastructure.
 - 🎯 **Clean Code Advocate**: Passionate about Clean Architecture, SOLID principles, testability, and high-throughput systems.
 
@@ -34,55 +34,65 @@
 
 ### 🌟 Featured Highlights & Products
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ Qriib (قريب)</h3>
-      <p><b>Role: Product Engineer (End-to-End)</b></p>
-      <p>Next-generation collaboration & communication platform engineered for real-time meetings and large-scale webinars.</p>
-      <ul>
-        <li>Owned product vision, business logic alignment, and UX design.</li>
-        <li>Architected low-latency audio/video calling using <b>LiveKit & WebRTC</b>.</li>
-        <li>Integrated push workflows, background calling services, and cross-platform desktop/mobile parity.</li>
-      </ul>
-      <p>
-        <a href="https://play.google.com/store"><b>Play Store</b></a> • 
-        <a href="https://apps.apple.com"><b>App Store</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Multi-Sector RAG System</h3>
-      <p><b>Role: AI Systems Engineer</b></p>
-      <p>Scalable, production-ready Retrieval-Augmented Generation (RAG) platform handling multi-domain document ingestion and contextual querying.</p>
-      <ul>
-        <li>Implemented intelligent vector embeddings, semantic chunking, and ranking.</li>
-        <li>Engineered modular query routing across distinct sector knowledge bases.</li>
-        <li>Built with Python, modern LLM orchestration, and vector stores.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/AliAntar7/multisector-rag-system"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Aimago</h3>
-      <p><b>Role: Creator & Developer</b></p>
-      <p>AI-powered image manipulation application utilizing <b>Gemini Vision APIs</b> to transform and edit images via natural language prompts.</p>
-      <p>
-        <a href="https://github.com/AliAntar7/Aimago"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Antar Cash</h3>
-      <p><b>Role: Product Discovery & Engineering</b></p>
-      <p>Smart fintech utility built to automate transaction categorization and financial auditing for mobile wallet users.</p>
-      <p>
-        <a href="https://github.com/AliAntar7/antar_cash"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 📹 [Qriib (قريب)](https://apps.apple.com/eg/app/qriib/id6759274218) — Next-Gen Real-Time Collaboration & Meeting Platform
+* **Role**: Lead Product Engineer (End-to-End)
+* **Overview**: The 4th-generation communication platform from V.connct, delivering ultra-secure, seamless collaboration for teams, enterprises, and large-scale webinars.
+* **Key Impact & Ownership**:
+  * Drove the product from concept to production—owning business logic alignment, user experience design, and core system decisions.
+  * Architected and implemented the entire client-side mobile and desktop system for low-latency audio/video calling powered by **WebRTC**.
+  * Engineered cross-platform parity across Mobile (iOS/Android) and Desktop (macOS), integrating push calling workflows and background services.
+* **Get the App**:  
+  <a href="https://play.google.com/store/apps/details?id=com.app.qriib&hl=en">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/qriib/id6759274218">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+  </a>
+
+---
+
+#### 👥 [Vconnct](https://apps.apple.com/us/app/vconnct/id1603246524) — High-Scale Video Conferencing Platform
+* **Role**: Mobile Engineer & Optimization Specialist
+* **Overview**: 3rd-generation video conferencing powerhouse serving **50,000+ active users**, built for ultra-clear video & audio meetings and seamless enterprise collaboration.
+* **Key Impact**:
+  * Implemented crucial performance optimizations, significantly reducing call latency and elevating stream stability under peak concurrency.
+  * Delivered major feature enhancements, refactored state management, and streamlined media session handling.
+* **Get the App**:  
+  <a href="https://play.google.com/store/apps/details?id=com.vconnct.meet">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/vconnct/id1603246524">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+  </a>
+
+---
+
+#### 🚗 [AutoSpa](https://apps.apple.com/eg/app/autospa/id6757208493) — Smart On-Demand Car Care Platform
+* **Role**: Product & Mobile Engineer
+* **Overview**: Live production on-demand platform enabling users to book and schedule trusted car cleaning and detailing services with multi-wash options.
+* **Key Impact**:
+  * Contributed directly to product direction, UX flows, and UI design decisions to optimize user booking conversion.
+  * Engineered the mobile client using Flutter & Supabase, eliminating redundant rebuilds and building reactive, real-time appointment updates.
+* **Get the App**:  
+  <a href="https://play.google.com/store/apps/details?id=com.app.autospa">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/autospa/id6757208493">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+  </a>
+
+---
+
+#### ⚡ [Multi-Sector RAG System](https://github.com/AliAntar7/multisector-rag-system) — Enterprise AI Knowledge Platform
+* **Role**: AI Systems Engineer
+* **Overview**: Scalable, production-grade Retrieval-Augmented Generation (RAG) platform handling multi-domain document ingestion and contextual querying across isolated knowledge sectors.
+* **Key Impact**:
+  * Implemented semantic chunking, vector embeddings, and dynamic re-ranking.
+  * Engineered modular query routing across distinct sector knowledge bases with Python, vector stores, and modern LLM orchestration.
+* **Explore Code**:  
+  <a href="https://github.com/AliAntar7/multisector-rag-system">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
 
 ---
 
@@ -93,7 +103,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveKit-002B36?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-4A154B?style=flat-square" />
