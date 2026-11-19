@@ -134,15 +134,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAntar7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAntar7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>Crafted with passion, business sense, and modern engineering standards.</sub>
 </div>
